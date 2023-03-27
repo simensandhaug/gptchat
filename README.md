@@ -9,3 +9,6 @@ You can record audio files or use preexisting audiofiles that gets transcribed i
 Additional functionality includes messages being remembered in the same session, so that the API can use the whole conversation history to answer the prompts.
 
 Created in an hour on Mar 27, 2023.
+
+> !NB Requires ffmpeg
+> Also remember to download dependencies from requirements.txt `pip install -r requirements.txt`
